@@ -25,7 +25,7 @@ API: https://dummyjson.com/docs/users
 
 Clone the repository:
 
-git clone https://github.com/your-username/users-catalog.git
+git clone https://github.com/EduardSadikhyan/users-catalog.git
 
 Install dependencies:
 
